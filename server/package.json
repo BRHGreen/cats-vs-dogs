@@ -1,11 +1,11 @@
 {
+  "name": "cats-vs-dogs",
+  "version": "1.0.0",
+  "main": "server.js",
   "engines": {
     "node": "10.17.0",
     "npm": "6.11.3"
   },
-  "name": "server",
-  "version": "1.0.0",
-  "main": "server.js",
   "license": "MIT",
   "scripts": {
     "start": "node server.js",
